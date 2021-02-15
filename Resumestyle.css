@@ -1,0 +1,44 @@
+header{
+  background-color: #75787b;
+  position: fixed; 
+  top: 0;
+  height: 2.4em; 
+  width: 100%; 
+  
+}
+img{
+	border: .5em solid;
+	border-color: white;
+
+}
+#name{
+	font-family: "Copperplate";
+
+}
+.secheader{
+	font-size: 1.5em;
+}
+.part{
+	background-color: #c64600;
+	padding-bottom:0;
+	padding-top: .2em;
+
+}
+
+body{
+	background-color: #861f41;
+	color: white;
+	padding-top: 1em;
+}
+a{
+	color: white;
+	float: left;
+	padding-right: 1em;
+	height: .5em;
+	padding-bottom: .2em
+
+}
+
+#navlinks{
+	list-style-type: none;
+}
